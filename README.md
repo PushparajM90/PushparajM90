@@ -23,8 +23,6 @@
 <a href="https://github.com/PushparajM90">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=PushparajM90&style=flat-square&color=70A5FD&label=Profile+Views"/>
-
 </div>
 
 ---
